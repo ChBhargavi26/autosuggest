@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "Verifying my git set-up : )\r change flow for pushing\r 1.add(plus button)\r 2.commit with message\r 3.push/syn",
+  "homepage": "https://github.com/ChBhargavi26/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/ChBhargavi26/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBhargavi26/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "Bhargavi",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
