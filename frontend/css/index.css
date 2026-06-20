@@ -49,3 +49,6 @@ body {
 .card img {
     width: 100%;
 }
+.card button {
+    margin-bottom: 20px;
+}
